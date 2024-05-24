@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://github.com/McDull-Github/Trojan-Qt5/blob/master/resources/icons/trojan-qt5_new.png?raw=true" alt="Trojan-Qt5" width="200">
   <br>
-  Trojan-Qt5
+  Qt5
   <br>
 </h1>
 
-A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
+A cross-platform Socks5/Http/SS/SSR/Vmess/Snell GUI client
 
 
 ## Feature
@@ -21,11 +20,11 @@ A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
 
 ## Install
 
-- You can download it from [release](https://github.com/lncnxyz/Trojan-Qt5/releases) page
+- You can download it from [release](https://github.com/rafaelmdcarneiro/gui_client_qt5/releases) page
 
 
 ## Warning
-Note: Trojan-Qt5 can ONLY be used for learning related technologies such as Qt/C++/Linux/CI/automation and use within the scope permitted by law. Any individual or group MAY NOT use Trojan-Qt5 for any violation of relevant laws and regulations.
+Note: Qt5 can ONLY be used for learning related technologies such as Qt/C++/Linux/CI/automation and use within the scope permitted by law. Any individual or group MAY NOT use Trojan-Qt5 for any violation of relevant laws and regulations.
 
 Any attempt to download of any branch or distribution of Trojan-Qt5 constitutes your agreement that the author of the project will not be liable for any legal liability arising from your breach of the above guidelines.
 
@@ -47,11 +46,6 @@ This project is based on:
 - [qbittorrent](https://github.com/qbittorrent/qBittorrent) GPL-2.0
 - [v2ray-core](https://github.com/v2ray/v2ray-core) MIT
 - [trojan-qt5](https://github.com/trojan-qt5/trojan-qt5) 
-
-## UI Design
-- [@erdongchan]()
-- [westworldss](https://westworldss.com/)
-- [MieLink](https://www.mielink.cc)
 - [shadowsocksRR-windows](https://github.com/shadowsocksrr/shadowsocksr-csharp)
 - [Qv2ray](https://github.com/qv2ray/qv2ray)
 
